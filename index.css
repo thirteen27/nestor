@@ -11,8 +11,9 @@
     }
     
     .angel, .lester{
-        padding: 0;
+        border-radius: 50px;
         width:45%;
+
     }
 
     .angel {
