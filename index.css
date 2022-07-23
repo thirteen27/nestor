@@ -56,17 +56,17 @@
     
     .angel, .lester{
         border-radius: 50px;
-        width:30%;
+        width:40%;
         margin: 0;
 
     }
 
     .angel {
-    margin-right: 6%;
+    margin-right: 4.50%;
     }
 
     .lester {
-    margin-left: 6%;
+    margin-left: 4.50%;
     }
 
     .wrapper #pics{
